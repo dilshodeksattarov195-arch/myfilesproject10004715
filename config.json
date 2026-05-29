@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsarse",
+        "uuid": 39219370,
+        "checksum": "kumu7i"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
